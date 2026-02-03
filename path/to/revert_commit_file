@@ -1,0 +1,3 @@
+Revert "<commit message of the last commit>"
+
+This reverts commit <commit SHA of the last commit>.
